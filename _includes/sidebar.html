@@ -1,0 +1,30 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar on the right side -->
+<div class="sidebar" style="width:200px;right:0" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <!-- Update Sidebar to grow as more pages get added to navigation in _data -->
+  <nav class="sidebar-nav">
+    {% for item in site.data.navigation %}
+    <a class="sidebar-nav-item{% if page.url == item.link %} active {% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+    
+    <!-- Not Supported yet -->
+    <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+    <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+    <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+  </nav>
+
+  <!-- Copyright -->
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
+  </div>
+
+</div>

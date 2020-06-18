@@ -1,0 +1,9 @@
+# Extend this to hold all projects, add to a new layout for project page
+- name: Projects
+  link: /projects.html
+- name: SEADS Vault
+  link: /projects/SDP.md
+- name: SuppCheck
+  link: /projects/SuppCheck.md
+- name: RentMyJunk
+  link: /projects/RMJ.md
