@@ -2,17 +2,18 @@
  * Site footer for classes used in footer.html
  */
  .site-footer {
-    background: #242424;
+    background: #ff5656;
     padding: 30px 0;
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: 24px;
+    margin-top: 30px;
     margin-bottom: 15px;
 }
 
 .footer-host {
-    color: #928E94;
+    color: #000;
     float: right;
 }
 
@@ -24,7 +25,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: #eee;
+    color: #000;
     margin-left: 15px;
 }
 
