@@ -11,19 +11,17 @@ In these projects I worked with a small team of 4 to develop full stack applicat
 There's so much to say about these projects, that I've dedicated a page for each of them.
 
 ### SEADS Vault
-Outage Detection Software for voltage analysis and electrical hazard prevention. 
-[see more]({% link _projects/SDP.md %})
+Outage Detection Software for voltage analysis and electrical hazard prevention.
 
 ### SuppCheck
 Healthy eating mobile application that provides insight into the health benefits of fitness supplements. 
-[see more]({% link _projects/SuppCheck.md %})
 
 ### RentMyJunk
 Website that aims at reducing waste through renting used goods.
-[see more]({% link _projects/RMJ.md %})
 
 ## Artificial General Intelligence
 AI courses I took during my time as an undergrad and genuinely enjoyed (and would recommend to others)!
+
 ### CMPS 140: Introduction to Artificial Intelligence (Capstone)
 1. General Search using Heuristics - A*
 2. Adversarial Search - MinMax, Expectimax

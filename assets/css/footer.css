@@ -1,0 +1,66 @@
+/**
+ * Site footer for classes used in footer.html
+ */
+ .site-footer {
+    background: #ff5656;
+    padding: 30px 0;
+}
+
+.footer-heading {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.footer-host {
+    color: #000;
+    float: right;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+.footer-col-wrapper {
+    font-size: 15px;
+    color: #000;
+    margin-left: 15px;
+}
+
+.footer-col {
+    float: left;
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+
+.footer-col-1 {
+    width: -webkit-calc(35% - 15px);
+    width:         calc(35% - 15px);
+}
+
+.footer-col-2 {
+    width: -webkit-calc(65% - 15px);
+    width:         calc(65% - 15px);
+}
+
+
+/* Resize CSS for device types */
+/*  In testing phase.
+@include media-query($on-laptop) {
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(50% - (#{30px} / 2));
+        width:         calc(50% - (#{30px} / 2));
+    }
+}
+
+@include media-query($on-palm) {
+    .footer-col {
+        float: none;
+        width: -webkit-calc(100% - (#{30px} / 2));
+        width:         calc(100% - (#{30px} / 2));
+    }
+}
+*/
