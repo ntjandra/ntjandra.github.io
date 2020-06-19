@@ -6,3 +6,8 @@ defaults:
       image: true
 sass:
     style: compressed
+plugins:
+  - jekyll-relative-links
+  relative_links:
+    enabled:     true
+    collections: true
