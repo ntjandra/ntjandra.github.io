@@ -35,9 +35,9 @@ Unfortunately we weren't able to secure funding and halted production in March 2
 
 ## Future
 As of June 19, 2020 we slowly picked this back up as a hobby to bring it back as a mobile app.
-Check us out on [github!](https://github.com/dref11/SuppCheck/)
+Check us out on [Github!](https://github.com/dref11/SuppCheck/)
 
 # Status:
-[demo website](https://cruz-hacks-2020-265505.appspot.com/) \
-Ran Out of Google Cloud Credits. \
-Mobile: UI Rework in development. \
+[Demo website](https://cruz-hacks-2020-265505.appspot.com/)  
+Ran Out of Google Cloud Credits.  
+Mobile: UI Rework in development.  
