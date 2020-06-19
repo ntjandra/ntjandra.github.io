@@ -8,6 +8,7 @@ title: Projects
 
 ## Software Engineering & Project Management
 In these projects I worked with a small team of 4 to develop full stack applications.
+[see more](_projects/SDP.md)
 
 ### SEADS Vault
 Outage Detection Software for voltage analysis and electrical hazard prevention.
