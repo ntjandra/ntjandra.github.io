@@ -8,6 +8,6 @@ sass:
     style: compressed
 plugins:
   - jekyll-relative-links
-  relative_links:
-    enabled:     true
-    collections: true
+relative_links:
+  enabled:     true
+  collections: true
