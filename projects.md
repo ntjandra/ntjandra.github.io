@@ -8,13 +8,14 @@ title: Projects
 
 ## Software Engineering & Project Management
 In these projects I worked with a small team of 4 to develop full stack applications.
-[see more](projects/SDP.md)
 
 ### SEADS Vault
 Outage Detection Software for voltage analysis and electrical hazard prevention.
+[see more](projects/SDP.md)
 
 ### SuppCheck
 Healthy eating mobile application that provides insight into the health benefits of fitness supplements. 
+[see more](projects/SuppCheck.md)
 
 ### RentMyJunk
 Website that aims at reducing waste through renting used goods.
