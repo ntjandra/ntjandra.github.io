@@ -40,4 +40,5 @@ I created this place as a great way for employers to know about me and start off
     Anything relating to "Cities of the Future" is a big interest of mine. 
     Some applications I've done are developing large scalable storage systems, connecting a wide network of users, to developing sustainable electrical devices. I really want a self-driving car!
 
+
 [Resume]({% link /assets/img/Nathaniel_Tjandra_Resume.pdf %})
