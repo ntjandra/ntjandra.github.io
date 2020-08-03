@@ -36,6 +36,7 @@
 }
 
 .footer-col-1 {
+    border-radius: 50%;
     width: -webkit-calc(35% - 15px);
     width:         calc(35% - 15px);
 }
