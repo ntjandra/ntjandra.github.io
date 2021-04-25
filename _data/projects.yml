@@ -1,6 +1,8 @@
 # Extend this to hold all projects, add to a new layout for project page
 - name: Projects
   link: /projects.html
+- name: SkyhookDM
+  link: /products/skyhookdm.md
 - name: SEADS Vault
   link: /projects/SDP.md
 - name: SuppCheck

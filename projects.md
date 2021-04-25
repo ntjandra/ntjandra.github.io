@@ -2,42 +2,32 @@
 layout: default
 title: Projects
 ---
-# My Projects
+# Collaborative Projects
+In these projects I worked with a small team of four to develop products.
 
-## Areas of interest
-
-## Software Engineering & Project Management
-In these projects I worked with a small team of 4 to develop full stack applications.
+## Ongoing
 
 ### SEADS Vault
-Outage Detection Software for voltage analysis and electrical hazard prevention.
+Outage Detection Software using voltage analysis and electrical hazard prevention.
+
 [see more](projects/SDP.md)
 
+## Past Projects
+
+### SkyhookDM
+Open Source large scale research project focusing on distributed systems and optimizing reading and writing data from database by using buckets. I worked primarily on the partioner feature and the ETL layer for data manipulation and storage.
+
+[visit SkyhookDM](https://sites.google.com/view/skyhookdm/home)
+
 ### SuppCheck
-Healthy eating mobile application that provides insight into the health benefits of fitness supplements. 
-[see more](projects/SuppCheck.md)
+Healthy eating application that provides insight into the health benefits of fitness supplements available on the web and as a mobile application. Developed for CruzHacks 2020. Won second place for "Best Health Hack" and runner up for "Best use of Google Cloud Platform".
+
+[see more](projects/SuppCheck.md) 
+
+[visit Github](https://github.com/dref11/SuppCheck)
 
 ### RentMyJunk
-Website that aims at reducing waste through renting used goods.
+A website that aims at reducing the landfill through renting used goods. Deployed using AWS EC2 and Elastic Beanstalk.
 
-## Artificial General Intelligence
-AI courses I took during my time as an undergrad and genuinely enjoyed (and would recommend to others)!
-
-### CMPS 140: Introduction to Artificial Intelligence (Capstone)
-1. General Search using Heuristics - Pac-Man Trapped in a Maze
-2. Adversarial Search - Pac-Man V.S Ghosts
-3. Reinforcement Learning - Pac-Man "Capture the Flag" Contest
-
-### CMPM 146: Game AI 
-1. Adversarial Search - Space Wars 
-2. Procedural Content Generation - SMB Level Generator (Unity)
-3. Boo M-AI-TES - Developed Enemy AI for a Party Game (Unity)
-
-### CMPS 144: Applied Machine Learning (Capstone)
-1. Made a LSTM Neural Network from scratch that identified reuters articles.
-2. Trained a Convolutional Neural Network to classify articles of clothing.
-3. Preproccessed numerical, catagorical, and ordinal data to develop models for airport flights.
-
-<!-- This is pretty much a short and sweet sitemap that is used for collection naming. Will change in the future. -->
-
+[visit Github](https://github.com/ntjandra/cse115a)
 

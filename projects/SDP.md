@@ -4,7 +4,7 @@ title: Software Engineer 1
 ---
 
 # SEADS Vault
-Started in partnership with the Baskin School of Engineering and Renewable Resilent Electrical Energy Systems Lab at the University of California - Santa Cruz. I worked here for six months as a **software engineer** and **scrum master**.
+Started in partnership with the Baskin School of Engineering and Renewable Resilent Electrical Energy Systems Lab at the University of California - Santa Cruz. I currently work here a **software engineer** and **scrum master** for almost two years now.
 
 Our team's primary function was to develop software that supports the RREES Lab's hardware that captures the electrical current of an outlet. We were shown a proof of concept and had to improve on the prior project's pitfalls due to handling big data storage and locks.
 
@@ -42,3 +42,13 @@ Our team's primary function was to develop software that supports the RREES Lab'
 1. I was invited to join the next phase of the project for __Outage Prevention__ over the Summer.
 2. A sponsor reached out to me to work as an researcher for [Skyhook](https://www.skyhookdm.com/).
 An Open Source Database Management Software for big data storage across clusters, such as Kubernetes, used for quick read/write access and scaling vertically. I will be working on implementing a row based paritioning system for their Python API.
+
+### A Year Later (2021)
+- I took a bigger role and got promoted to a R&D Software Engineer II.
+- I'm a mentor for new members of the lab, teaching them about design principles and how our product works. 
+- My tasks became spread out across the stack delving into Firmware and how Rasberry Pi Systems work.
+- I manage our Postgres database and on premise server to ensure deployment matches production and keep our services running.
+- I implemented new charts for our website using Recharts and D3.js and went deeper into Mapbox's API.
+- Optimize decompressing files into bytecode with LZMA, transforming into JSON and parsing them back to display in Recharts.
+- I write scripts for automated firmware updates on the SEADS devices and maintained the Gitlab repository for each device type.
+- Experimented with other time management styles, but finding out Scrum is the most productive for our remote team.
