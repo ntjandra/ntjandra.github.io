@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 # Collaborative Projects
-In these projects I worked with a small team of four to develop products.
+In these projects I worked in a small Agile team to develop applications.
 
 ## Ongoing
 
@@ -20,7 +20,7 @@ Open Source large scale research project focusing on distributed systems and opt
 [visit SkyhookDM](https://sites.google.com/view/skyhookdm/home)
 
 ### SuppCheck
-Healthy eating application that provides insight into the health benefits of fitness supplements available on the web and as a mobile application. Developed for CruzHacks 2020. Won second place for "Best Health Hack" and runner up for "Best use of Google Cloud Platform".
+Healthy eating application that provides insight into the health benefits of fitness supplements available on the web and as a mobile application. Developed for CruzHacks 2020. It received second place for "Best Health Hack" and runner up for "Best use of Google Cloud Platform".
 
 [see more](projects/SuppCheck.md) 
 

@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Local Testing
 
-Run ```bundle exec jekyll serve```
-
+Run ```bundle exec jekyll serve  --livereload```
+for hot reload/quick css testing.

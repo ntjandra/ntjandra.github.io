@@ -12,7 +12,7 @@ In this course, AI teaches Pac-Man how to win.
 3. Reinforcement Learning: Pac-Man "Capture the Flag" Contest
 
 ### CMPM 146: Game AI 
-In this course, I applied my knowledge of algorithms and math to create AI solutions to problems.
+In this course, I applied my knowledge of algorithms and game theory to create AI solutions to problems.
 1. Adversarial Search: Space Wars, AI manages a fleet to takeover the galaxy.
 2. Procedural Content Generation: Super Mario Brothers Level Generator.
 <!-- Built using Python and the Unity Game Engine --> 
