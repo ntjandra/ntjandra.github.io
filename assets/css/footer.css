@@ -36,9 +36,14 @@
 }
 
 .footer-col-1 {
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
+    overflow: hidden;
+    border: 5px solid rgb(255, 255, 255);
     border-radius: 50%;
-    width: -webkit-calc(35% - 15px);
-    width:         calc(35% - 15px);
+    object-fit: cover;
+    margin: -10px 0px 0px;
+    object-position: 20% 10%; /*try 20px 10px */ 
 }
 
 .footer-col-2 {

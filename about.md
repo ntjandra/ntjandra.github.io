@@ -18,30 +18,29 @@ I created this place as a great way for employers to know about me and start off
 
 ### I am a human, not a robot.
 - This website was created to be a portfolio, but that doesn't mean it has to be 100% formal. 
-I'd like to form a connection with visitors by sharing my hobbies and what I enjoy doing during my spare time.
+- I'd like to form a connection with visitors by sharing my hobbies and what I enjoy doing during my spare time.
+- As a Programmer, I code. As a Software Engineer, I design. As a Researcher, I look into trends and learn best through mimicry.
+
 <!-- 3. I needed a way to tell people what times I am free as an all in one scheduler. -->
 
 ### FAQ
-1. Do you use Social Media?
+1. Do you use Social Media?  
+    I use Discord to chat with friends and use LinkedIn or Slack for more professional conversations.
 
-    I use Discord to chat with friends and use LinkedIn for more professional conversations.
-    I do not use other forms of social media due to being an invtrovert at a young age and a very bad experience.
-    I had a Facebook and deactivated it in 7th Grade when my account got hacked. I never went back to FB or any clones, but I don't miss it since I never posted much. I mostly played games on it such as Backyard Monsters and Restaurant City.
-    
-2. What are your hobbies?
+3. Where are you located?  
+    I live with my parents in San Francisco. I am searching for work within California.
 
-    I describe myself as your proud nerd. 
-    I love reading manga and webtoons, especially Solo Leveling and the isekai genre.
-    I play MOBAs, card games, and gacha games. Recently, I've been playing more mobile games as there has been less freetime.
-    During the covid pandemic, I haven't done enough exercise but when it's over I am looking forward to trying something new that's more active. As for sports, I played Badminton for approximately 6 years, I would go after church for 2-3 hours every Sunday.
+2. What are your hobbies?  
+    I describe myself as your everday nerd. I spent most of my days indoors, but I enjoy going outdoors to camp with friends and family in Yosemite.
+    I love reading manga and webtoons, especially stories about a second chance at life or being trapped inside a game.
+    I play MOBAs, trading card games (TCGs), and Gacha games as a free-to-play. I enjoy saving up for events and grinding out games that will last a lifetime. Outside of online activities, I love to play tabletop games, such as Dungeon's and Dragons or board games.
+    On Saturday, I go hiking with my mother and explore areas near San Francisco and Daly City, visiting areas filled with nice scenary and plenty of nature.
+    As for sports, I 've played indoor Badminton for approximately 6 years. I'd be up play a singles match if anyone challenges me!
 
-3. Where are you based?
+3. What do you do during your freetime?
+    During my Free-time, when I'm alone I work on personal projects. Based on my love of the anime art style, gacha games, and hiking, I've been hard at work creating a Gacha Game that focuses on leveraging the GPS on mobile devices in order to construct an MMO focusing on visiting National Parks to clear dungeons. Other times, I write backstories for characters in DnD and develop worlds. I've created a Battle Royale themed campaign for one shot sessions for up to 16 players, inspired by Hunger Games: Catching Fire.
 
-    I live with my parents in San Francisco and work remotely during the pandemic. I am not open to relocation outside of California.
-
-4. What are your interests?
-
-    Anything relating to "Cities of the Future" is a big interest of mine. In order to accomplish this goal I've been gaining experience with web development, database/server management, and Distributed Systems and File Systems.  
-    Applications I've worked on have focused around developing large scalable storage systems, connecting a wide network of users, and deploying IoT devices.
+4. What are your interests?  
+    Anything relating to "Cities of the Future" is a big interest of mine. In order to accomplish this goal I've been gaining experience with web development, databases/server management, Distributed Systems, and File I/O Systems. Applications I've worked on have focused around developing large scalable storage systems, notifying a wide network of users, and management of data collected from smart systems.
 
 [Resume]({% link /assets/img/Nathaniel_Tjandra_Resume.pdf %})

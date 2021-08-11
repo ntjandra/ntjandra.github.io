@@ -1,4 +1,6 @@
-theme: jekyll-theme-tactile
+title: Nathaniel's Portfolio
+description: A personal site to learn more about me.
+
 defaults:
   - scope:
       path: "assets/img"
@@ -6,8 +8,10 @@ defaults:
       image: true
 sass:
     style: compressed
+theme: jekyll-athena
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
 relative_links:
   enabled:     true
   collections: true

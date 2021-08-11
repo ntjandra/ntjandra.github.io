@@ -6,6 +6,4 @@ title: Home
 ### Welcome
 
 
-Thanks for checking out my webpage. I have some [projects](projects) I'd love to show you.
-
-For more information about me, look at my [About page](/about.md). It contains an FAQ that most people ask me and some interesting facts people are shocked to learn.
+Thanks for checking out my webpage. I have some [projects](projects) I'd love to show you. For more information about me, look at my [about page](/about.md) or check out my [blog](/blog.md). 
