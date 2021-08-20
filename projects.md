@@ -11,6 +11,7 @@ In these projects I worked in a small Agile team to develop applications.
 Non profit aimed at developing applications designed for web and mobile for connecting people with non-profit organizations. Current focus is based on Indonesians impacted by the pandemic. Originally started from a Hackathon Project that my friends made.
 
 [see more](projects/Tetanggaku.md)  
+
 [Visit Tetanggaku](https://tetanggaku.com/#/)
 
 ## Past Projects
