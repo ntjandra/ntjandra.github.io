@@ -7,12 +7,18 @@ In these projects I worked in a small Agile team to develop applications.
 
 ## Ongoing
 
+### Tetanggaku
+Non profit aimed at developing applications designed for web and mobile for connecting people with non-profit organizations. Current focus is based on Indonesians impacted by the pandemic. Originally started from a Hackathon Project that my friends made.
+
+[see more](projects/Tetanggaku.md)  
+[Visit Tetanggaku](https://tetanggaku.com/#/)
+
+## Past Projects
+
 ### SEADS Vault
 Outage Detection Software using voltage analysis and electrical hazard prevention.
 
 [see more](projects/SDP.md)
-
-## Past Projects
 
 ### SkyhookDM
 Open Source large scale research project focusing on distributed systems and optimizing reading and writing data from database by using buckets. I worked primarily on the partioner feature and the ETL layer for data manipulation and storage.
