@@ -5,7 +5,6 @@ date:   2021-07-27 16:36:48 -0700
 categories: thinking
 ---
 
-# Personality Tests
 Yesterday, I took the Myers–Briggs Type Indicator personality test and got a strange result. I ended as an INTP-T, but with a 1% border between being an INTJ and INTP.
 Introverted, Intuitive, Thinking, Judging/Prospecting. I looked into it more and INTP is a Logician which I wrote more about back in part one. 
 

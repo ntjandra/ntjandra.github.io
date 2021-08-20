@@ -5,8 +5,7 @@ date:   2021-08-10 12:59:48 -0700
 categories: coding, thinking, roleplay
 ---
 
-# OpenAI Codex
-Today is the release of Open AI's new product, Codex. Its a brilliant piece of software that greatly reduces the overhead of "boring code". I applied for a beta key as soon as I could and hope to hear back soon. Here are some details about my beta application and what I envision Codex + GPT-3 are able to complete together.
+Today marks the release of Open AI's new product, Codex. Its a brilliant piece of software that greatly reduces the overhead of "boring code". I applied for a beta key as soon as I could and hope to hear back soon. Here are some details about my beta application and what I envision Codex + GPT-3 are able to complete together.
 
 ### My Plans
 As you may know I've been trying to build a DnD campaign, so seeing codex made me want to try an AI driven campaign. I plan to leverage GPT-3 for DM suggestions, and codex to allow users to real time update their character positions and call ability checks. My goal is to turn the campaign into a browser based game, filled with the excitement of having players have the freedom to interact with literaly anything. This is where GPT-3 comes in, if a player does something unplanned simply hit up GPT-3 and describe the scenario, then ask for 1-3 suggestions and pick one or make your own. Use the suggestion as the way to format code. 

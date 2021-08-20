@@ -5,9 +5,7 @@ date:   2021-07-30 16:36:48 -0700
 categories: job
 ---
 
-# Farewell RREES Labs
-Today marks my final day at RREES Labs. I've been at the Lab for 20 months, which is almost 2 years now. 
-During my time there I was able to expand my technical skills to become a Full-Stack Engineer, working on Frontend, Backend, Ops, and Firmware.
+Today marks my final day at RREES Labs. I've been at the Lab for 20 months, which is almost 2 years now. During my time there I was able to expand my technical skills to become a Full-Stack Engineer, working on Frontend, Backend, Ops, and Firmware.
 I am thankful for the opportunites to lead teams, mentor interns, and meet up with stakeholders that helped greatly improve my social skills.
 Throughout my time here at RREES I look back at my growth and would like to thank everyone that has been a part of my journey.
 
