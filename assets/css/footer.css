@@ -32,7 +32,7 @@
 .footer-col {
     float: left;
     margin-bottom: 15px;
-    padding-left: 15px;
+    padding-left: -10px;
 }
 
 .footer-col-1 {
@@ -43,7 +43,7 @@
     border-radius: 50%;
     object-fit: cover;
     margin: -10px 0px 0px;
-    object-position: 20% 10%; /*try 20px 10px */ 
+    object-position: 20% 10%; /* try 20px 10px */
 }
 
 .footer-col-2 {
