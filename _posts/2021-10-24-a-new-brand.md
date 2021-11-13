@@ -3,7 +3,7 @@ layout: post
 title: A new brand
 date: 2021-10-24 11:38 -0700
 ---
-Set goals high, if you hit you're goals they're simply too weak.
+Set goals high, if you hit your goals they're simply too weak.
 
 ### Improving as a writer
 I read the book "Insanely Simple" and it inspired me to improve on my personal brand. In it, I learned about design, for the workplace and for this blog. It got me to rethink my old blog title and logo design, because it's just "Not Insanely Simple". "Deep Thoughts of Learning" sounded great in my head, but that's not enough to be a personal brand. 
