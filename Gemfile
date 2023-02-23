@@ -14,6 +14,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "kramdown-parser-gfm"
 gem 'jekyll-relative-links'
+gem "webrick", "~> 1.7" # Ruby 3 support
 
 # Download a theme for  Jekyll sites. Currently using custom css.
 # gem "minima", "~> 2.5"
