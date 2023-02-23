@@ -17,12 +17,12 @@ gem 'jekyll-relative-links'
 gem "webrick", "~> 1.7" # Ruby 3 support
 
 # Download a theme for  Jekyll sites. Currently using custom css.
-# gem "minima", "~> 2.5"
-# gem 'jekyll-theme-minimal'
+gem "minima", "~> 2.5"
+gem 'jekyll-theme-minimal'
 group :jekyll_plugins do
     gem "jekyll-feed", "~> 0.12"
   end
-gem "jekyll-athena"
+# gem "jekyll-athena"
 # Windows doesn't allow hot reload without this
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 # Get Timezone for Blog
