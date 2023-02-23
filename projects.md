@@ -2,10 +2,22 @@
 layout: default
 title: Projects
 ---
-# Collaborative Projects
-In these projects I worked in a small Agile team to develop applications.
+# Projects & Experiences
+Experiences and summaries with links to see more.
 
-## Ongoing
+## Present
+
+Currently, I work at Amazon as a Technical Writer, but I do so much more than simply write. My primary focus is developing team and organization mechanisms for economists, engineers, and scientists. I create all forms of content: Wikis, Broadcast Videos, API documentation, Runbooks, PR/FAQs, and even online workshops. I'm especially proud of the scope of impact in my work.
+
+## Highlight
+
+### Mage AI (Mage Technologies Inc.)
+
+I worked at Mage, a small start-up company, looking to enter to the AI space. I was hired as the first Technical Writer, and performed many tasks that came with big risks.
+
+[see more](projects/MageAI.md)
+
+## Past Projects
 
 ### Tetanggaku
 Non profit aimed at developing applications designed for web and mobile for connecting people with non-profit organizations. Current focus is based on Indonesians impacted by the pandemic. Originally started from a Hackathon Project that my friends made.
@@ -13,8 +25,6 @@ Non profit aimed at developing applications designed for web and mobile for conn
 [see more](projects/Tetanggaku.md)  
 
 [Visit Tetanggaku](https://tetanggaku.com/#/)
-
-## Past Projects
 
 ### SEADS Vault
 Outage Detection Software using voltage analysis and electrical hazard prevention.
