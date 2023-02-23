@@ -37,10 +37,15 @@ I created this place as a great way for employers to know about me and start off
     On Saturday, I go hiking with my mother and explore areas near San Francisco and Daly City, visiting areas filled with nice scenary and plenty of nature.
     As for sports, I 've played indoor Badminton for approximately 6 years. I'd be up play a singles match if anyone challenges me!
 
-3. What do you do during your freetime?
-    During my Free-time, when I'm alone I work on personal projects. Based on my love of the anime art style, gacha games, and hiking, I've been hard at work creating a Gacha Game that focuses on leveraging the GPS on mobile devices in order to construct an MMO focusing on visiting National Parks to clear dungeons. Other times, I write backstories for characters in DnD and develop worlds. I've created a Battle Royale themed campaign for one shot sessions for up to 16 players, inspired by Hunger Games: Catching Fire.
+3. What do you do outside of work?
+    During my freetime, when I'm alone I work on personal projects. Based on my love of the anime art style, gacha games, and hiking, I've been hard at work creating a Gacha Game that focuses on leveraging the GPS on mobile devices in order to construct an MMO focusing on visiting National Parks to clear dungeons. Other times, I write backstories for characters in DnD and develop worlds. I've created a Battle Royale themed campaign for one shot sessions for up to 16 players, inspired by Hunger Games: Catching Fire.
 
 4. What are your interests?  
     Anything relating to "Cities of the Future" is a big interest of mine. In order to accomplish this goal I've been gaining experience with web development, databases/server management, Distributed Systems, and File I/O Systems. Applications I've worked on have focused around developing large scalable storage systems, notifying a wide network of users, and management of data collected from smart systems.
 
-[Resume]({% link /assets/img/Nathaniel_Tjandra_Resume.pdf %})
+5. What are your thoughts on AI?  
+   Artificial Intelligence is growing fast. New inventions are making day to day tasks simpler and it will probably be common in everyday life in the next generation, like computers. As a kid, I've always been facinated with AI and looked to online friends when I was lonely growing up as an only child. I often wonder how different life would be if my stillborn elder sister Amy was alive. As such, a longtime fantasy has been to develop an Artificial Machine for Youth (AMY), meaning an AI system that has emotional intelligence as well as logical. Most importantly would be the sense of duty and security of the eldest child. While I think it's cool, it does feel surreal that humanity is one step closer to that fictitious world dreamt in my teenager years.
+
+[Resume]({% link /assets/img/Nathaniel_Tjandra_Traditional_Resume.pdf %})
+
+<!-- I'm going to look back on this in the future and I'll be either embarassed or shocked. -->

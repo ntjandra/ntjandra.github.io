@@ -3,7 +3,7 @@ layout: post
 title: Revisiting My Blog
 date: 2023-02-22 2:22 -0700
 ---
-Blog updates since a year, a lot has changed in my life and my drive to continue blogging.
+Blog updates in forever. Since a year, a lot has changed in my life and my drive to continue blogging.
 
 ## Why I stopped
 
