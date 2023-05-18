@@ -6,7 +6,7 @@ categories: thinking
 ---
 
 Today I took the Myers–Briggs Type Indicator personality test and got a strange result. I ended as an INTP-T, but with a 1% border between being an INTP and INTJ.
-Introverted, Intuitive, Thinking/Feeling, Prospecting.
+Introverted, Intuitive, Thinking, Prospecting/Judging.
 
 ## But what does this mean?
 I looked into it more and INTP is a Logician, which makes sense given my love for finding patterns, attention to small details, and roleplay.

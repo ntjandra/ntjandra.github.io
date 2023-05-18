@@ -8,13 +8,14 @@ These couple weeks there's been a whole lot more site traction. I thank all the 
 ## Logo
 Every blog has to have a logo, so I've been experimenting lately with drawing tools and also Codex to generate an icon (SVG) for the blog. I've went over a couple of designs and aren't sure which ones are right.
 
-## Goal
+### Goal
 I've got plans this week to focus on learning how to make logos outside of MS Paint. After this I'll be designing the logo after the layout is chosen. I'd like to work on all three various of the designs I have in mind first then post it along with a poll to pick the logo.
 
 ### Origins of the Name
 The words Deep Thoughts of Learning, can be rewritten to form DT, DL, and LT. These letters can form acrynoyms, Deep Thoughts, Deep Learning, and Learning Thoughts. All in all these are the cornerstone "tags" of the blog with Deep Thoughts being about miscellanous thoughts, Deep Learning focusing on the tech industry and AI, and with Learning Thoughts be about me experimenting and learning new skillsets. 
 
-## Design One
+## Designs
+### Design One
 Triangle with each corner containing the Letter, DTL. Short, simple, but is it understandable?
 
 + This design visually shows the connection between the letters and the tags.

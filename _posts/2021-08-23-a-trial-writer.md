@@ -22,14 +22,15 @@ I can see this being used in my previous organization, filled with students want
 4. Make AI accessible for all, whether large or small.
    - Its cool to see AI in action, but when everyday people try to pick it up or look stuff up about it its turn them off. They need to understand math formulas and symbols, which drives most people off. I want to create "blogs" as technical articles filled with personality. This makes it engaging to the reader and they don't need to read or understand all the math. It's 100% more friendly than reading the documentation of Unix Systems or a Butter-Bandpass filter.
   
-  - *THIS* Coming from a Research/Lab background I've met professor who spent their life studying Systems to transition to AI when it first came out. This resulted in one department growing incredible quick but everything slowed down for others (funding, supply of workers). Then there was a problem where group wanted to apply AI there but there was no expert to build/train the model. While on the other hand, there were experts that wanted to build/train but lacked the data. I worked for a group was the one that sampled the data and had dreams to ship it to an AI/ML Data Scientist in the future.
+**Resonate**:
+Coming from a Research and Labratory background, I've met professors who have spent their life studying Systems struggling to transition to AI when it first came out. This resulted in one department growing incredibly quick, whule everything slowed down for others departments, as resources (funding, supply of workers) become scarce if you weren't in AI. Then, there was a problem where a research group wanted to apply AI there, but lacked a willing expert to build/train the model. On the other hand, there were plenty of experts that wanted to build/train, but lacked the data. My reearch department was a group that sampled data and had milestones to ship it to an AI/ML Data Scientist in the future.
 
 ## What I really like about this position
-- I get to learn about AI. I get to code. I get to write with feeling and personality. Its a good balance of professional and informal. It's not a Thesis Paper, but also not like a text you would casually send a friend.
+- I get to learn about AI. I get to code. I get to write with feeling and personality. Its a good balance of professional and informal. It's not a Thesis Paper, but also not a text you would casually send a friend.
 
 - Potential to "level up" and evolve after building a strong foundation and understanding of all 40 models.
 
-- In university, we often didn't have enough time to do everything, usually we would gloss over things the teacher didn't place a high importance on. Here, I'll be able to touch practically everything currently released by a year or so. "Our roles don't define our responsibilities" is a great team motto.
+- In university we often didn't have enough time to do everything, usually we would gloss over things the teacher didn't place a high importance on. Here, I'll be able to touch practically everything currently released by a year or so. "Our roles don't define our responsibilities" is a great team motto.
 
 - Turn documentation into an "Intelligence Network". It's currently being done at OpenAI, through the (beta) Open AI community forum. Tons of apps, help, and self-start guides everywhere with an active community of moderators and staff.
 - True quality comes from new members asking questions like [this](https://community.openai.com/t/can-a-complete-coding-n00b-build-an-app-with-gpt-3/5747/34 
