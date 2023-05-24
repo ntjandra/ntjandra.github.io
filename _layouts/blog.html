@@ -1,47 +1,23 @@
-<!DOCTYPE html>
-<html lang="en-us">
+---
+layout: default
+---
 
-  <!-- Import all the styling in head -->
-  {% include head.html %}
-
-  <body>
-    <!-- Adds a sidebar object -->
-    {% include sidebar.html %}
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <!-- Do not insert anything here, as it overlaps with the sidebar. -->
-        </div>
+<main class="container content">
+  <!-- Title -->
+  <div class="container mx-auto px-2 mt-4 mb-2 clearfix header-text">
+    <h1 class="h0 inline-block py-2 mt-4 header-title">{{ page.title }}</h1>
+      <div class="clearfix mb-4 py-1">
+        <p class="h4 lh-condensed font-smoothing"> {{ content }} </p>
+        <div class="col-1 sm-width-full border-top-thick"></div>
       </div>
-      <!-- Page Message goes here, usually the Markdown format. -->
-      <div class="container content">
-        <!-- Title -->
-        <div class="container mx-auto px-2 mt-4 mb-2 clearfix header-text">
-          <h1 class="h0 inline-block py-2 mt-4 header-title">{{ page.title }}</h1>
-            <div class="clearfix mb-4 py-1">
-              <p class="h4 lh-condensed font-smoothing"> {{ content }} </p>
-              <div class="col-1 sm-width-full border-top-thick"></div>
-            </div>
-          </div> 
-        </div>
+    </div> 
+  </div>
 
-        <!-- Blog Posts -->
-        <div class="container mx-auto px-2 py-2">
-          {% for post in site.posts %}
-            <!-- Imported from Themes -->
-            {% include post_block.html %} 
-          {% endfor %}
-        </div>
-    
-      <!-- Adds a footer object -->
-      {% include footer.html %}
-    </div>
-
-    <!-- Allows the sidebar to collapse  -->
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-    <script src='{{ site.baseurl }}/assets/js/script.js'></script>    
-  </body>
-</html>
+  <!-- Blog Posts -->
+  <div class="container mx-auto px-2 py-2">
+    {% for post in site.posts %}
+      <!-- Imported from Themes -->
+      {% include post_block.html %} 
+    {% endfor %}
+  </div>
+</main>
