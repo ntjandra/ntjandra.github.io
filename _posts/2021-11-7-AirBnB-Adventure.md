@@ -2,6 +2,7 @@
 layout: post
 title: AirBnB Adventure
 date: 2021-10-24 11:38 -0700
+categories: job
 ---
 Thoughts on the Hybrid remote workplace. Growing up from adulthood, and work-life integration.
 

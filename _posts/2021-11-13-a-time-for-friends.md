@@ -2,8 +2,9 @@
 layout: post
 title: A time for friends
 date: 2021-11-13 11:38 -0700
+categories: me
 ---
-November approaches thanksgiving, and I'm thankful for many things. This week I'll write about how I'm thankful for friends.
+November approaches Thanksgiving, and I'm thankful for many things. This week I'll write about how I'm thankful for friends.
 
 ## School Friends
 I was the quiet one at school, so I didn't have many friends and cherished them when I could. My most memorable and consistent friend group is my 5 high school friends. Some I knew from elementary, some from middle school. I transfered schools a lot as a kid, always had to move due to legal reasons/school districts. Now, I play various games with them and this week we played Among Us. 

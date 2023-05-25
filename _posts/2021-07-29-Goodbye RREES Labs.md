@@ -2,7 +2,7 @@
 layout: post
 title:  "Farewell RREES Labs"
 date:   2021-07-30 16:36:48 -0700
-categories: job
+categories: job learn
 ---
 
 Today marks my final day at RREES Labs. I've been at the Lab for 20 months, which is almost 2 years now. During my time there I was able to expand my technical skills to become a Full-Stack Engineer, working on Frontend, Backend, Ops, and Firmware.

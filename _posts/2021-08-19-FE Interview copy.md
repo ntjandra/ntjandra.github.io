@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frontend Interview
-categories: thoughts, job
+categories: learn job
 date: 2021-08-18 3:31 -0700
 ---
 

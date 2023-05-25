@@ -2,6 +2,7 @@
 layout: post
 title: A Trial Writer
 date: 2021-08-23 14:06 -0700
+categories: learn job
 ---
 A company reached out to me on Friday about working not as a Frontend Engineer but as a Technical Writer. I love the company, and I see promise in what they do so it would be a no brainer to decline. Based on their Core-Virtues there were some things I felt that really hit it off with me from the start.
 

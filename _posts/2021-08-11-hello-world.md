@@ -1,8 +1,8 @@
 ---
 layout: post
 title: hello-world
-categories: site
 date: 2021-08-11 11:42 -0700
+categories: site
 ---
 
 I finally set up the groundwork for a blog. It was not as easy as I thought it would be as I got distracted by many additional features. I had to reinvent some styling, and play around with the overall organization of files. Hello World is an intro post I created by following this [tutorial](https://www.linkedin.com/learning/learning-static-site-building-with-jekyll/add-a-post?u=65318132).

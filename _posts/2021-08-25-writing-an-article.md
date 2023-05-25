@@ -2,6 +2,7 @@
 layout: post
 title: Writing an Article
 date: 2021-08-25 12:09 -0700
+categories: write me learn
 ---
 I finished writing an article on Regression metrics in ML today. Its target audience is towards the general public, with no background in college level math, coding, or AI required to enjoy the article. Throughout the process of writing many drafts I was blessed to have many wonderful editors to peer review it by catching errors and clarifying confusing points. While I was writing and looking at other articles for reference I realized how important imagery is. 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "OpenAI Codex"
 date:   2021-08-10 12:59:48 -0700
-categories: coding, thinking, roleplay
+categories: me code
 ---
 
 Today marks the release of Open AI's new product, Codex. Its a brilliant piece of software that greatly reduces the overhead of "boring code". I applied for a beta key as soon as I could and hope to hear back soon. Here are some details about my beta application and what I envision Codex + GPT-3 are able to complete together.

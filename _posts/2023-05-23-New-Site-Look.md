@@ -3,7 +3,7 @@ layout: post
 title: New Job, New Look
 categories: jekyll update
 date: 2023-05-23 6:22 -0700
-
+categories: site me
 ---
 Progress on blog updates, I've been working on cleaner, reliable, and reuseable content as I work to develop principles for what I want my portfolio to be.
 
