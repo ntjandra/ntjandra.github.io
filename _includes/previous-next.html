@@ -15,7 +15,7 @@
   {% if page.next.url %}
     <!-- Align to Right -->
     <a class="pagination-item newer" href="{{ page.next.url | prepend: full_base_url }}">
-      <button class="button button1">Next Post</button>
+      <button class="button button2">Next Post</button>
       <p class="bold h3 link-primary mb-1">{{ page.next.title }}</p>
       <p>{{ page.next.content | strip_html | truncatewords:20 }}</p>
     </a>

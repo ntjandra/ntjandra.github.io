@@ -1,11 +1,25 @@
-/* CSS for Buttons with Arrows/Animations on Hover */
+/* CSS for Buttons */
 .button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-  }
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: #ddd;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.rounded-button {
+  display: table-column;
+  flex-direction: row;
+  align-items: flex-end;
+  background-color: #48affd;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
