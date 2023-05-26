@@ -2,7 +2,7 @@
 layout: post
 title: Picking the right picture
 date: 2021-08-30 10:07 -0700
-categories: site me learn
+tags: site me learn
 ---
 These couple weeks there's been a whole lot more site traction. I thank all the visitors who have been here. I'm glad and appreciate all the support you've given me! All this support lets me know you enjoy reading about these topics and encourages me to keep up the posting.
 

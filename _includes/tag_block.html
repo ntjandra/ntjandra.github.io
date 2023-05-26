@@ -1,8 +1,8 @@
 <!-- post_block from athena theme -->
 <!-- Renders post date, title, and snippet of text. -->
 <div class="py-2 mb-2 prose">
-  <h2 class="h1 lh-condensed col-9 mb-0">
-    <a class="link-primary" title="{{ search.url | prepend: site.baseurl }}" href="{{ search.url | prepend: site.baseurl }}">{{ post.categories[0] }}</a>
-  </h2>
+  <span class="label label--category">
+    <a class="post-tag" title="{{ search.url | prepend: site.baseurl }}" href="{{ search.url | prepend: site.baseurl }}">{{ post.tags[0] }}</a>
+  <span>
   <a class="no-underline-hover h5 block py-1 mb-1" title="{{ post.url | prepend: site.baseurl }}" href="{{ post. | prepend: site.baseurl }}"
 </div>

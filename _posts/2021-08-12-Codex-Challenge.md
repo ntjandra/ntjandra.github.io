@@ -2,7 +2,7 @@
 layout: post
 title: Open AI Codex Challenge
 date: 2021-08-13 14:30 -0700
-categories: code learn me
+tags: code learn me
 ---
 
 Today I completed the Open AI Codex Challenge! It was super fun and it changed the way I think as a developer. Codex is very hit or miss depending on the number of tasks and the response expectation. Its still a very good coder, having built in understanding of the documentation.

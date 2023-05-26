@@ -2,7 +2,7 @@
 layout: post
 title: Full Time Writer
 date: 2021-08-31 16:10 -0700
-categories: job
+tags: job
 ---
 I'm excited to given an offer to be a technical writer. I love working with them based on the atmosphere, company virtues, and staff members I've met. They gave off this family vibe of being very approachable to ask questions and peer review. I know I'll be growing a lot and working hard to make them proud! 
 

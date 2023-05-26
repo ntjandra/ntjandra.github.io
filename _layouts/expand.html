@@ -15,8 +15,8 @@ layout: default
 
   <!-- Everything -->
   <div class="container mx-auto px-2 py-2">
-    {% for category in site.categories %}
-      <h3>{{ category[0] }}</h3>
+    {% for tag in site.tags %}
+      <h3>{{ tag[0] }}</h3>
       <ul>
         {% for post in category[1] %}
           {% include post_block.html %}

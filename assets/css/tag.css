@@ -1,0 +1,12 @@
+.post-tag {
+    display: inline-block;
+    padding-right: 0.5rem;
+    border-radius: 4px;
+    color: red;
+    &:before {
+      content: "#";
+    }
+    &:hover {
+      text-decoration: none;
+      background: blue;
+    }

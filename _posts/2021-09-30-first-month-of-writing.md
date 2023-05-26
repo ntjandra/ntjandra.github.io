@@ -2,7 +2,7 @@
 layout: post
 title: First month of writing
 date: 2021-09-30 11:38 -0700
-categories: job
+tags: job
 ---
 The month was brutal but rewarding and fun. I got the meet the team in person and we hit it off pretty well. The future looks bright as "we ride the rocketship". To follow up with my last post I was only able to release three articles, but am planned to release six within the next month, along with two guest posts.
 

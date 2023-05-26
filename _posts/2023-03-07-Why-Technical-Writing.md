@@ -2,7 +2,7 @@
 layout: post
 title: Why I became a technical writer
 date: 2023-05-17 7:32 -0700
-categories: write me
+tags: write me
 ---
 Story of how I became a technical writer, and future growth plans.
 

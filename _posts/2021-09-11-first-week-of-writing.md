@@ -2,7 +2,7 @@
 layout: post
 title: First week of writing
 date: 2021-09-11 11:38 -0700
-categories: write me
+tags: write me
 ---
 The week went by pretty quickly. I realize I need to take better care of my health. It started Friday and I had stomache pains, some possibilities would be the stress of deadlines or maybe its just something I ate. Regardless, due to that I couldn't go out for a picnic today as I had to constantly use the restroom. I feel worried I won't be able to meet deadlines, hard or soft. I took a big risk going from a coding title or a techncial writer title. It makes it difficult to switch back so I feel motivated to commit to it.
 

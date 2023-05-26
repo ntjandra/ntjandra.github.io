@@ -2,7 +2,7 @@
 layout: post
 title: A new brand
 date: 2021-10-24 11:38 -0700
-categories: site me
+tags: site me
 ---
 Set goals high, if you hit your goals they're simply too weak.
 

@@ -2,7 +2,7 @@
 layout: post
 title: A time for friends
 date: 2021-11-13 11:38 -0700
-categories: me
+tags: me
 ---
 November approaches Thanksgiving, and I'm thankful for many things. This week I'll write about how I'm thankful for friends.
 
