@@ -5,6 +5,7 @@
   {% include head.html %}
 
   <body>
+    {% include ai-me.html %}
     <!-- Adds a sidebar object -->
     {% include sidebar.html %}
 
@@ -26,6 +27,8 @@
 
     <!-- Allows the sidebar to collapse  -->
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-    <script src='{{ site.baseurl }}/assets/js/script.js'></script>    
+    <script src='{{ site.baseurl }}/assets/js/script.js'></script>
+    <!-- Imports for Amy -->
+    {% include use-tensor.html %}
   </body>
 </html>
