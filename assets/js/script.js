@@ -1,3 +1,5 @@
+// Code that animates the sidebar
+
 (function(document) {
   var toggle = document.querySelector('.sidebar-toggle');
   var sidebar = document.querySelector('#sidebar');

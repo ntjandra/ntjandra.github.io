@@ -17,7 +17,7 @@ layout: default
   <div class="container mx-auto px-2 py-2">
     {% for post in site.posts %}
       {% if post.tags contains page.search-tag %}
-        {% include post_block.html %}
+        {% include post-block.html %}
       {% endif %}
     {% endfor %}
   </div>
