@@ -7,10 +7,10 @@
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
-<!-- Add Area for Avatar picture. Redirects to home -->
-    <a href="{{ '/' | relative_url }}" id="avatar">
-      <img class="sidebar-avatar" src="/assets/img/me.jpg" alt="Nathaniel Tjandra" width="190" height="190" alt="avatar">
-    </a>
+  <!-- Add Area for Avatar picture. Redirects to home -->
+  <a href="{{ '/' | relative_url }}" id="avatar">
+    <img class="sidebar-avatar" src="/assets/img/me.jpg" alt="Nathaniel Tjandra" width="190" height="190" alt="avatar">
+  </a>
   <!-- Update Sidebar to grow as more pages get added to navigation in _data -->
   <nav class="sidebar-nav">
     {% for item in site.data.navigation %}

@@ -1,14 +1,16 @@
 <!-- Renders post date, title, and snippet of text. -->
 <div class="py-2 mb-2 prose">
-  <h2 class="h1 lh-condensed col-9 mb-0 no-underline-hover">
+  <h3 class="h1 lh-condensed col-9 mb-0 no-underline-hover">
     <a class="link-primary" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </h2>
+  </h3>
   <a class="no-underline-hover h5 block py-1 mb-1" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }} </a>
 
   {% for tag in post.tags %}
-    <a class="no-underline-hover h5 block py-1 mb-1" title="/search/{{tag}}" href="/search/{{tag}}">
-      <button class="rounded-button">#{{ tag }}</button>
-    </a>
+    {% unless tag contains 'pin' %}
+      <a class="no-underline-hover h5 block py-1 mb-1" title="/search/{{tag}}" href="/search/{{tag}}">
+        <button class="rounded-button">#{{ tag }}</button>
+      </a>
+    {% endunless %}
   {% endfor %}
   <p>{{ post.content | strip_html | truncatewords:30 }}</p>
 </div>

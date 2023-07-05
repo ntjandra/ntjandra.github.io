@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 5px solid rgb(255, 255, 255);
   border-radius: 50%;
   object-fit: cover;
-  margin: -10px 0px 0px;
+  margin: -10px 0px 10px 0px;
   object-position: 20% 10%; /* try 20px 10px */
 }
 
