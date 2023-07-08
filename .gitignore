@@ -5,6 +5,7 @@ _drafts/
 .jekyll-metadata
 
 ### Ruby ###
+Gemfile.lock
 *.gem
 *.rbc
 /.config
