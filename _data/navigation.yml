@@ -4,11 +4,11 @@
 - name: About
   link: /about.html
 - name: Projects
-  link: /projects/
+  link: /projects.html
 - name: Blog
-  link: /blog/
+  link: /blog.html
 - name: Search
-  link: /search/
+  link: /search.html
 - name: Hire me
   link: /hire-me.html
 - name: Courses
