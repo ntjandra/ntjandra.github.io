@@ -43,8 +43,8 @@ Healthy eating application that provides insight into the health benefits of fit
 
 [visit Github](https://github.com/dref11/SuppCheck)
 
-### RentMyJunk
+<!-- ### RentMyJunk
 A website that aims at reducing the landfill through renting used goods. Deployed using AWS EC2 and Elastic Beanstalk.
 
-[visit Github](https://github.com/ntjandra/cse115a)
+[visit Github](https://github.com/ntjandra/cse115a) -->
 

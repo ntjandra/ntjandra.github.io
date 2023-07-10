@@ -7,7 +7,11 @@
   link: /projects/SDP.md
 - name: SuppCheck
   link: /projects/SuppCheck.md
-- name: RentMyJunk
-  link: /projects/RMJ.md
+# - name: RentMyJunk
+#   link: /projects/RMJ.md
 - name: Tetanggaku
   link: /projects/Tetanggaku.md
+- name: Mage
+  link: /projects/MageAI.md
+- name: Amazon
+  link: /projects/Amazon.md
