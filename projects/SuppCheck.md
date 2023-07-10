@@ -20,7 +20,10 @@ Take a photo of the ingredients label.
 - Chemical Compounds
 - Organic ingredients
 
-### Queries for benefit data of chemicals and determine their purpose in the supplement
+### Queries for benefit data of chemicals
+
+The purpose for writing queries was to help users determine their purpose in the supplement.
+
 Examples
 - Ingredient is healthy for the heart and treatment of ...
 - Ingredient is known to cause diabetes or cancer and increase risk of ...
