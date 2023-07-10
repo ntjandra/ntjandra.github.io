@@ -1,0 +1,13 @@
+<!-- Tocbot API settings. Settings to only apply on post pages. -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.18.2/tocbot.min.js"></script>
+<script>
+    tocbot.init({
+      tocSelector: '.js-toc',
+      contentSelector: '.prose',
+      headingSelector: 'h2, h3',
+      hasInnerContainers: true,
+      orderedList: false,
+      scrollSmooth: false
+    });
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.18.2/tocbot.css">

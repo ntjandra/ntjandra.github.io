@@ -1,0 +1,52 @@
+.toc-wrapper {
+    position: -webkit-fixed;
+    position: fixed;
+    top: 4rem;
+    transition: top 0.2s ease-in-out;
+    -webkit-animation: fade-up 0.8s;
+    animation: fade-up 0.8s;
+    margin-bottom: 2rem;
+}
+.toc-wrapper ul {
+    list-style: none;
+    font-size: 0.85rem;
+    line-height: 1.25;
+    padding-left: 0;
+}
+.toc-wrapper ul li:not(:last-child) {
+    margin: 0.4rem 0;
+}
+.toc-wrapper ul li a {
+    padding: 0.2rem 0 0.2rem 1.25rem;
+}
+.toc-wrapper ul .toc-link {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.toc-wrapper ul .toc-link:hover {
+    color: blueviolet;
+    text-decoration: none;
+}
+.toc-wrapper ul .toc-link::before {
+    display: none;
+}
+.toc-wrapper ul .is-active-link {
+    color: blue !important;
+    font-weight: 600;
+}
+.toc-wrapper ul .is-active-link::before {
+    display: inline-block;
+    width: 1px;
+    left: -1px;
+    height: 1.25rem;
+    background-color: yellowgreen !important;
+}
+.toc-wrapper ul ul a {
+    padding-left: 2rem;
+}
+
+.panel-wrapper {
+    margin-top: 0;
+}

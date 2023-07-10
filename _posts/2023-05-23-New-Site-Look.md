@@ -49,5 +49,9 @@ Huge milestone that builds on my SEO knowledge, user experience, and machine lea
 
 ## Posting Plan
 
-Earlier this year, I provided a posting plan to write 4 posts about **1. Why I became a technical writer?**, **2. Work-Life Harmony**, **3. Experiencing Imposter Syndrome**, and **4. Scrum-Like Project Management**
+Earlier this year, I provided a posting plan to write 4 posts about 
+- **1. Why I became a technical writer?**
+- **2. Work-Life Harmony** 
+- **3. Experiencing Imposter Syndrome**
+- **4. Scrum-Like Project Management**
 

@@ -16,16 +16,28 @@
           <!-- Do not insert anything here, as it overlaps with the sidebar. -->
         </div>
       </div>
-      <!-- Page Message goes here, usually the Markdown format. -->
-      <div class="container content">
-        {{ content }}
+
+      <!-- Split into section for ToC -->
+      <div class="row">
+        <div class="panel-wrapper col-4">
+          <div class="toc-wrapper">
+            <nav class="js-toc"></nav>
+          </div>
+        </div>
       </div>
-      <!-- Adds a footer object -->
+
+        <!-- Page Message goes here, usually the Markdown format. -->
+        <div class="container content col-8">
+          {{ content }}
+        </div>
+
+        <!-- Adds a footer object -->
       {% include footer.html %}
     </div>
 
     <!-- Allows the sidebar to collapse  -->
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
     <script src='{{ site.baseurl }}/assets/js/script.js'></script>
+    {% include toc.html %}
   </body>
 </html>
