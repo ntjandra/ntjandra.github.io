@@ -12,6 +12,15 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
   - jekyll-feed
+  - jekyll-archives
 relative_links:
   enabled:     true
   collections: true
+
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'

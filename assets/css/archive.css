@@ -1,0 +1,75 @@
+.archive {
+    letter-spacing: 0.05rem;
+   /* .archive ul */
+}
+.archive .year::before, .archive .year:first-child::before, .archive ul li::before {
+    content: '';
+    width: 10px;
+    position: relative;
+    float: left;
+    background-color: orangered;
+}
+.archive .year {
+    height: 3.5rem;
+    font-size: 1.5rem;
+    position: relative;
+    left: 2px;
+    margin-left: -4px;
+}
+/* This is the timeline bar */
+.archive ul li {
+    font-size: 1rem;
+    line-height: 3rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    justify-content: space-between;
+}
+.archive ul li::before {
+    top: 0;
+    left: 4.8rem;
+    height: 3.1rem;
+}
+.archive .date {
+    white-space: nowrap;
+    display: inline-block;
+    position: relative;
+    right: 0.5rem;
+}
+.archive .date.month {
+    width: 2.5rem;
+    text-align: center;
+}
+
+.archive a {
+   /* post title in Archives */
+    margin-left: 2.5rem;
+    position: relative;
+    top: 0.1rem;
+}
+.archive a:hover {
+    border-bottom: none;
+}
+.archive a::before {
+   /* the dot before post title */
+    content: '';
+    display: inline-block;
+    position: relative;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    left: -1rem;
+    background-color: black;
+    box-shadow: 0 0 3px 0 .c2c6cc;
+    z-index: 1;
+}
+
+/* .archive */
+@media all and (max-width: 576px) {
+    .archive {
+        margin-top: -1rem;
+   }
+    .archive ul {
+        letter-spacing: 0;
+   }
+}

@@ -31,3 +31,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Add to quick make posts
 gem 'jekyll-compose', group: [:jekyll_plugins]
+# Post timeline sorting
+gem 'jekyll-archives'
