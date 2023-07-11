@@ -1,3 +1,15 @@
+@media print{
+    #tocbot a.toc-link.node-name--H4{ display:none }
+  }
+
+
+  /* Hide ToC if it's not a large laptop. */
+  @media screen and (max-width: 1390px), screen and (max-height: 610px) {
+    .toc-wrapper {
+        display: none;
+    }
+}
+
 .toc-wrapper {
     position: -webkit-fixed;
     position: fixed;
