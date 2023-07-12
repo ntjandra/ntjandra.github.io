@@ -12,9 +12,9 @@ I'm currently on the job-market. I offer services on a contract or hire basis. S
 ## Highlight
 
 ### Amazon (Core AI)
-I worked at Amazon as a Technical Writer, but I did so much more than simply write. My primary focus is towards developing team and organization mechanisms for economists, engineers, and scientists. I createed all forms of content: Wikis, Broadcast Videos, API documentation, Runbooks, PR/FAQs, and even presented online workshops. I'm especially proud of the scope of impact in my work.
+I worked at Amazon as a Technical Writer, but I did so much more than simply write. My primary focus is towards developing team and organization mechanisms for economists, engineers, and scientists. I created all forms of content: Wikis, Broadcast Videos, API documentation, Runbooks, PR/FAQs, and even presented online workshops. I'm especially proud of the scope of impact in my work.
 
-<!-- [see more](projects/Amazon.md) -->
+[see more](projects/Amazon.md)
 
 ## Past Experiences
 

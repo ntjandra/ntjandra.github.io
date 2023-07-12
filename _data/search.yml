@@ -1,13 +1,13 @@
 # Contains all 6 blog tags
-- name: Job
+- name: job
   link: /search/job.html
-- name: Site
+- name: site
   link: /search/site.html
-- name: Code
+- name: code
   link: /search/code.html
-- name: Write
+- name: write
   link: /search/write.html
-- name: Learn
+- name: learn
   link: /search/learn.html
-- name: Me
+- name: me
   link: /search/me.html
