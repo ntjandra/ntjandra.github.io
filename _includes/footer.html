@@ -13,11 +13,13 @@
           <a href="mailto:tjandranathaniel@gmail.com" title="Contact Me"> Email me </a>
           </br>
           <a href="https://www.medium.com/in/nathaniel-tjandra/" target="_blank" > Medium Blogs </a>
-        <!-- Repo is PRIVATE so comment it out for now. -->
-        <p class="footer-host">
-            <!-- Hosted in <a target="_blank" href="https://github.com/ntjandra/ntjandra.github.io">Github</a>. -->
-           Hosted by Github Pages <br> 
-           Created with Ruby and served by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a>.
+          </br>
+          Hosted on <a target="_blank" href="https://github.com/ntjandra/ntjandra.github.io">Github</a>.
+          </br>
+        <p class="footer-site"> Sitemap |
+        {% for item in site.data.navigation %}
+          <a class="{% if page.url == item.link %} active {% endif %}" href="{{ item.link }}">{{ item.name }}</a> |
+        {% endfor %}
         </p>
       </div>
     </div>

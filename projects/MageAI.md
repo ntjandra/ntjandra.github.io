@@ -7,7 +7,7 @@ title: Mage AI
 
 Mage is a growing AI start-up company that went through many transitions during it's time to establish an identity, direction and brand. I was hired as the first technical writer and expanded their content outreach and strategy for technical audiences primarily focusing on those that code. From writing posts to managing writers I was deeply involved with project management, content strategy, and developing a community. 3 month after working, I was promoted to hire and assemble the full-time writing team. This team would later become the DevRel/Documentation team where I shifted focus to growing our community and developing Mage Academy, a platform to learn about Mage and AI.
 
-Highlighting the differences between the boards, SEO  automations and constantly generated, so it would mostly be like finishing a checklist with some grouping. Mage Academy was owned by me, so I was able to plan out first and carefully weave in when would be a good time to schedule. The blog was a cluster of all content and resulted in the greedy coin problem of mass producing content, waiting for quality content, or perfecting content.
+Highlighting the differences between the boards, SEO automations and constantly generated, so it would mostly be like finishing a checklist with some grouping. Mage Academy was owned by me, so I was able to plan out first and carefully weave in when would be a good time to schedule. The blog was a cluster of all content and resulted in the greedy coin problem of mass producing content, waiting for quality content, or perfecting content.
 
 ## Project Management
 
