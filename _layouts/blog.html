@@ -11,11 +11,11 @@ layout: default
       <div class="col-1 sm-width-full border-top-thick"></div>
     </div>
   <!-- Blog Posts -->
-    <p class="h4 lh-condensed font-smoothing"> Recommended posts to start off with </p>
+    <p class="h4 lh-condensed font-smoothing"> Recommended posts </p>
     {% for post in site.tags.pin %}
       {% include post-block.html %}
     {% endfor %}
-    <p class="h4 lh-condensed font-smoothing"> Chronological list of all posts </p>
+    <p class="h4 lh-condensed font-smoothing"> Chronological posts </p>
     {% for post in site.posts %}
       {% include post-block.html %}
     {% endfor %}
