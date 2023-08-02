@@ -65,4 +65,4 @@ If you're curious about how I built this site, see the [Release logs](plans).
 <!-- I'm going to look back on this in the future and I'll be either embarassed or shocked. -->
 7. Where can I find your resume?
 
-- [Resume]({% link /assets/img/Nathaniel_Engineer_Resume.pdf %})
+- [Resume]({% link /assets/img/Nathaniel_Resume.pdf %})

@@ -3,4 +3,4 @@ layout: search
 search-tag: me
 ---
 
-Posts about my personal life.
+Posts about my personal growth.
