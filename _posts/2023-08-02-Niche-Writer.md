@@ -43,9 +43,9 @@ Web focuses on being able to own the documentation sites, requiring some fronten
 ### Hardware
 Hardware requires in-depth knowledge of low-level lanaguages to understand the codebase and ability to switch gears quickly.
 
-- Languages: C/C++, Go, Rust
+- Languages: C/C++, GoLang, Rust
 - Frameworks: Valgrind, Raspian/Linux OS
-- Concepts: IoT, Embedded, Logic gates (Discrete Math)
+- Concepts: IoT, Embedded, Logic gates (Discrete Math), Cache
 - Stakeholders: Electrical and Embedded Engineers.
 
 ### Marketing
@@ -56,13 +56,22 @@ Marketing branches outside of common engineering tools and focuses on blogging p
 - Concepts: Marketing SEO, Data Analytics, Programatic SEO
 - Stakeholders: Marketing and Sales, maybe Engineers.
 
-### Shared tools
-But across all the job positions, these are skills that remains as a must-have regardless of niche.
+## Honorable Mentions
+
+### Shared
+Across all the job positions, these are core skills that remains as a must-have regardless of niche for a technical writer.
 
 - Language: English, Markdown 
 - Tools: Git, Jira, Confluence
 - Concepts: Edit, Review, Agile Scrum, Kanban
 - Stakeholders: Executives
+
+### Competitive
+Standing out among candidates will be critical to landing that job. I believe the competitive expanding market will soon require another skill that all Technical Writers should be familiar with. Technical writers need to present their work, and being able to spin up a demo in seconds rather than minutes or days helps with making replicatable demos. For that reason, I suggest learning Docker, then Kubernetes to stand out and Helm for easy metric tracking.
+
+- Language: GoLang.
+- Tools: Docker, Kubernetes, Helm
+- Concepts: Distributed Systems
 
 ## What's Next
 Now that I have a new resume, categorized my niches, and disected the job descriptions, it's time to look for relationships for the Cover Letter. With an established relationship, I plan to enhance the site's search capabilities to help visitors explore the blogs in tandem with my stories.
