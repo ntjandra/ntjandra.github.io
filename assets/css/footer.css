@@ -264,7 +264,7 @@
     position: absolute;
     left: 0;
     top: 0.33rem;
-    transform: scale(3.5);
+    transform: scale(1.5);
   }
   .wrapper-social {
     height: 0.67rem;
@@ -285,7 +285,6 @@
     position: absolute;
     left: 0;
     top: 0.33rem;
-    transform: scale(3.5);
   }
   .wrapper-social1 {
     height: 0.67rem;
@@ -307,7 +306,7 @@
     position: absolute;
     left: 0;
     top: 0.33rem;
-    transform: scale(3.5);
+    transform: scale(1.5);
   }
   .wrapper-social2 {
     height: 0.67rem;
@@ -329,7 +328,7 @@
     position: absolute;
     left: 0;
     top: 0.33rem;
-    transform: scale(3.5);
+    transform: scale(1.5);
   }
   .wrapper-social3 {
     height: 0.67rem;
