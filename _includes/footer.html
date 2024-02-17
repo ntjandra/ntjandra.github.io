@@ -1,26 +1,84 @@
-<footer class="site-footer">
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <img class="avatar" src="/assets/img/me.jpg" alt="Nathaniel Tjandra">
-      </div>
 
-      <div class="footer-col footer-col-2">
-        <h2 class="footer-heading">Nathaniel Tjandra</h2>
-          <!-- _blank opens the link in a new tab/page. -->
-          <a href="https://www.linkedin.com/in/nathaniel-tjandra/" target="_blank" > Visit LinkedIn </a>
-          </br>
-          <a href="mailto:tjandranathaniel@gmail.com" title="Contact Me"> Email me </a>
-          </br>
-          <a href="https://www.medium.com/in/nathaniel-tjandra/" target="_blank" > Medium Blogs </a>
-          </br>
-          Hosted on <a target="_blank" href="https://github.com/ntjandra/ntjandra.github.io">Github</a>.
-          </br>
-        <p class="footer-site"> Sitemap |
+<footer class="footer">
+  <section class="frameroot">
+    <div class="framegroup">
+      <div class="profileframe">
+        <div class="footer-col-wrapper">
+          <div class="footer-col footer-col-1">
+            <img
+              class="avatar"
+              loading="eager"
+              alt="alt=Nathaniel Tjandra"
+              src="/assets/img/me.jpg"
+            />
+          </div>
+        </div>
+        <div class="blurb">
+          <h3 class="software-engineer">
+            Software Engineer & Technical Writer
+          </h3>
+          <div class="passionate-about-sharing">
+            Passionate about sharing technology through well-written docs
+            and code!
+          </div>
+        </div>
+      </div>
+      <div class="frame-c">
+        <div class="dividerline"></div>
+        <div class="copyright">
+          <div class="all-rights-reserved">© 2024 All Rights Reserved</div>
+        </div>
+      </div>
+    </div>
+    <!-- TODO: Add Script for Button and Display Answer
+    <div class="askbuttonframe">
+      <div class="askbar">
+        <div class="input-text-parent">
+          <div class="input-text"></div>
+          <input
+            class="enter-your-question"
+            placeholder="Enter your question"
+            type="text"
+          />
+        </div>
+        <button class="rounded-button">
+          <div class="ask">Ask</div>
+        </button>
+      </div>
+    </div>
+    -->
+  </section>
+  <div class="copyright-container"></div>
+  <div class="socialframe">
+    <div class="wrapper-social-parent">
+      <div class="wrapper-social">
+        <a href="https://www.linkedin.com/in/nathaniel-tjandra/" target="_blank" >
+          <img class="social-icon" title="LinkedIn" src="/assets/img/icons/linkedin.svg" />
+        </a>
+      </div>
+      <div class="wrapper-social1">
+        <a href="https://github.com/ntjandra" target="_blank" >
+          <img class="social-icon1" title="GitHub" src="/assets/img/icons/github.svg" />
+        </a>
+      </div>
+      <div class="wrapper-social2">
+        <a href="mailto:tjandranathaniel@gmail.com">
+          <img class="social-icon2" title="Email" src="/assets/img/icons/envelope.svg" />
+        </a>
+      </div>
+      <div class="wrapper-social3">
+        <a href="https://www.medium.com/in/nathaniel-tjandra/" target="_blank" >
+          <img class="social-icon3" title="Medium" src="/assets/img/icons/medium.svg" />
+        </a>
+      </div>
+    </div>
+    <div class="menuheader-wrapper">
+      <div class="menuheader">
         {% for item in site.data.navigation %}
-          <a class="{% if page.url == item.link %} active {% endif %}" href="{{ item.link }}">{{ item.name }}</a> |
+          <a class="{% if page.url == item.link %} active {% endif %}" href="{{ item.link }}">
+            <div class="{% if page.url == item.link %} active {% endif %}">{{ item.name }}</div>
+          </a> |
         {% endfor %}
-        </p>
       </div>
     </div>
   </div>
