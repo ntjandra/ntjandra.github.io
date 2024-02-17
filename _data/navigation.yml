@@ -1,17 +1,17 @@
-# All links present in sidebar
+# All links present for navigation mapping. Routes not in bar are commented out.
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: Projects
-  link: /projects.html
 - name: Blog
   link: /blog.html
-- name: Search
-  link: /search.html
+- name: Projects
+  link: /projects.html
+- name: About
+  link: /about.html
+# - name: Search
+#   link: /search.html
 # - name: Hire me
 #   link: /hire-me.html
-- name: Courses
-  link: /courses.html
-- name: Site Plans
-  link: /plans.html
+# - name: Courses
+#   link: /courses.html
+# - name: Site Plans
+#   link: /plans.html
