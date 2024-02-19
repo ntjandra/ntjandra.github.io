@@ -1,4 +1,5 @@
 <div class="timeline">
+  <h2> {{ label }} Timeline </h2>
   <ul>
       <h3> {{ site.time | date: "%Y" }} </h3>
       <!-- history is created by the caller -->
@@ -6,7 +7,7 @@
       <li>
         <span> {{ job.start | date: "%b %Y" }} - {{ job.end | date: "%b %Y" | default: "Present"}} </span>
         <a class="{% if page.url == job.link %} active {% endif %} noline" href="{{ job.url }}">
-          <div class="{% if page.url == job.link %} active {% endif %}">{{ job.title }} at {{ job.company }}</div>
+          <div class="{% if page.url == job.link %} active {% endif %}">{{ job.title }} at {{ job.place }}</div>
           <div class="content">
             <p> {{ job.content | strip_html | truncatewords:30 }} </p>
           </div>

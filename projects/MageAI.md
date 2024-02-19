@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Technical Writer I
-company: Mage AI
+place: Mage AI
 start: 2021-09-01
 end:   2022-06-01
 ---

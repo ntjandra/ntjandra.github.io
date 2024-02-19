@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Technical Writer II 
-company: Amazon
+place: Amazon
 start: 2022-08-01
 end: 2023-06-01
 ---

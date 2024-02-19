@@ -14,7 +14,15 @@ layout: default
     <!-- Populate timeline with data related to where this layout is used -->
     {% capture work_history %}
       {% assign history = site.pages | where: "layout", "work" | sort: 'start' | reverse %}
+      {% assign label = "Professional Work" %}
     {%endcapture%}
     {% include timeline.html history=work_history %}
+
+    {% capture hobby_history %}
+      {% assign history = site.pages | where: "layout", "hobby" | sort: 'start' | reverse %}
+      {% assign label = "Hobby Projects" %}
+    {%endcapture%}
+    {% include timeline.html history=hobby_history %}
+
   </div>
 </main>

@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Software Engineer II
-company: UCSC
+place: UCSC
 start: 2020-01-01
 end:   2021-08-01
 ---

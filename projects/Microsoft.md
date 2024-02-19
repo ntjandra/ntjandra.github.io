@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Technical Writer II 
-company: Microsoft
+place: Microsoft
 start: 2023-09-01
 end:
 ---

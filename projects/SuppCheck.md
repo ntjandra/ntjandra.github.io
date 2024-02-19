@@ -1,9 +1,12 @@
 ---
-layout: default
-title: CruzHacks2020
+layout: hobby
+title: Backend Software Engineer
+place: SuppCheck
+start: 2020-01-01
+end:   2020-03-01
 ---
 
-# Backend Software Engineer for SuppCheck
+Backend Software Engineer for SuppCheck
 
 A _mobile_ _application_ to look up ingredients of various fitness supplements and products. Developed during CruzHacks 2020.
 
@@ -16,7 +19,8 @@ The application functions by capturing an image of the ingredients from a produc
 
 Take a photo of the ingredients label.
 
-### Searches the label to identify 
+### Searches the label to identify
+
 - Chemical Compounds
 - Organic ingredients
 
@@ -25,15 +29,18 @@ Take a photo of the ingredients label.
 The purpose for writing queries was to help users determine their purpose in the supplement.
 
 Examples
+
 - Ingredient is healthy for the heart and treatment of ...
 - Ingredient is known to cause diabetes or cancer and increase risk of ...
 
 ### Our team plans to add additional features for 
+
 - Alergens
 - Dieting
 - User Accounts
 
-# Technologies
+## Technologies
+
 Google Cloud Vision
 Firebase
 Microsoft Azure
@@ -43,20 +50,24 @@ Flutter
 Git
 
 ## Result: At CruzHacks SuppCheck won two awards
+
 - **Second Place** in **Health Hack** category
 ![](/assets/img/SuppCheck/CruzHacksWin.jpg)
 - **Runner-up** for **Best Use of Google Cloud**
 
-# After the Hackathon
+## After the Hackathon
 
-## We were invited by SCWorks to present our application
+We were invited by SCWorks to present our application
+
 ![](/assets/img/SuppCheck/SCWorks.png)
 We applied to the Monterey Bay Startup Challenge to bring this idea to the next level, seeking funding, investments, and financial advisors.
 Unfortunately we weren't able to secure funding and halted production on March 2020 to focus more on our studies.
 
 ## Future
+
 As of June 19, 2020 we slowly picked this back up as a hobby to bring it back as a mobile app.
 Check us out on [Github](https://github.com/dref11/SuppCheck/)!
 
-# Status:
+## Status
+
 Project Ended at Stage 2.
