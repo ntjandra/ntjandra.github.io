@@ -15,7 +15,7 @@ I worked at Amazon as a Technical Writer, but I did so much more than simply wri
 - Customer: Internal Tiger Teams, entire org of Core AI (500+).
 - Develop code for the Sphinx Framework (reST) for docs as code.
 - Documented AWS Services, Data Policies, and API Software Documentation.
-- Create Systems Diagrams of AWS Architecture using Lucid Chart. 
+- Create Systems Diagrams of AWS Architecture using Lucid Chart.
 - Owned Broadcast Channels and Videos, including editing highly technical demos and non-technical How tos.
 - Led workshops for mechanisms, tenets, and product improvements.
 - Maintained Knowledge Portals for customers.
@@ -39,7 +39,7 @@ The main type of content I worked on, ordered by frequency.
 - Product Launch Emails: To the point information with a template for releases.
 - Issue Tickets: Structured Content to be parsed into props/ticket variables.
 - Knowledge Hubs: Resource page with links and descriptions of more links.
-- Schematics: Diagrams and charts for highly-technical low-level relationships. 
+- Schematics: Diagrams and charts for highly-technical low-level relationships.
 - PR/FAQS: Customer facing documents for a senior executive proposal.
 - Runbooks: Code Snippets and docs for internal contribution or demos.
 - Posters: Detailed Poster for Summit presentation focusing on dev mechanisms.
