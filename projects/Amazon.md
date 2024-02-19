@@ -1,12 +1,15 @@
 ---
-layout: default
-title: Mage AI
+layout: work
+title: Technical Writer II 
+company: Amazon
+start: 2022-08-01
+end: 2023-06-01
 ---
-# Amazon
 
-## Technical Writer at Amazon
+I worked at Amazon as a Technical Writer, but I did so much more than simply write. My primary focus is towards developing team and organization mechanisms for economists, engineers, and scientists. I created all forms of content: Wikis, Broadcast Videos, API documentation, Runbooks, PR/FAQs, and even presented online workshops. I'm especially proud of the scope of impact in my work.
 
-### Professional Summary
+## Professional Summary
+
 - Hired into an Engineering Team of Software Developers and Data Engineers.
 - Collaborated with multiple teams on Econometrics and Infrastructure.
 - Customer: Internal Tiger Teams, entire org of Core AI (500+).
@@ -18,7 +21,7 @@ title: Mage AI
 - Maintained Knowledge Portals for customers.
 - Met with Product Managers to align documentation with product roadmap.
 - Document critical third party software
-  - VSCode integration with internal product and Amazon's Extention marketplace. 
+  - VSCode integration with internal product and Amazon's Extention marketplace.
   - Amazon's internal version of Git for version control and code review.
   - Amazon's Internal Agile PM software for Agile Scrum and Kanban.
 - Bonus: Scripted a Intake Form Automation using JavaScript.
@@ -42,6 +45,7 @@ The main type of content I worked on, ordered by frequency.
 - Posters: Detailed Poster for Summit presentation focusing on dev mechanisms.
 
 ## Out-of-scope
+
 Honorable mention of "volunteer" work with lower priority, but good for learning and career paths as a Technical Evangelist/Developer Advocate. Often intiated by a skip-level manager or Amazonian that found what I did amazing. I put these here as they are less writing focused or less technical.
 
 - Wiki Metrics Dashboard: Create a dashboard to track teams and roles visiting wiki pages.
@@ -51,6 +55,7 @@ Honorable mention of "volunteer" work with lower priority, but good for learning
 - Broadcast Videos: Budget videos with voice-over, screen capture, and light edits.
 
 ## Topics
+
 - ML
 - Infrastructure
 - AWS
@@ -58,10 +63,11 @@ Honorable mention of "volunteer" work with lower priority, but good for learning
 - IDEs
 - Project Management
 - Team Culture
-- Technical Job Role onboarding 
+- Technical Job Role onboarding
 - Various Tech Stacks
 
 ### Writing Stack
+
 - Markdown
 - Sphinx
 - HTML/CSS
@@ -70,19 +76,20 @@ Honorable mention of "volunteer" work with lower priority, but good for learning
 ## Learnings
 
 ### Project management
+
 Learned about WIP Limits, and the minor and major differences between each form of Agile Methodology.
 
 ### Culture
-Our team was built around 2 major ideaologies, the first was the general Amazon philsophy of Leader Principles, and the second were organization level tenets. 
+
+Our team was built around 2 major ideaologies, the first was the general Amazon philsophy of Leader Principles, and the second were organization level tenets.
 
 My Top Leadership Principls: Deliver Results, Earn Trust, Bias for Action.
 
-
 ### Technical
+
 Working as a technical writer on AWS Infrastructure taught me a lot about the sheer number of public facing and internal services for cloud computing. I also learned about Spark (Distributed Systems) and state of the art ML research algorithms (confidential).
 
-
-## Testimonials 
+## Testimonials
 
 After learning about the importance of networking and feedback, I developed a feedback form to maintain the connection between my peers and got back some amazing testimonials that speak for themselves.
 
@@ -115,10 +122,13 @@ After learning about the importance of networking and feedback, I developed a fe
 The People. The Resources. The Projects.
 
 ### The bar of people
+
 Amazon (Core AI) has shown me just how big the world really is. A tech giant that's able to hire and retain the best through not just an emphasis on monetary compensation, but work-life balance and fostering a suportive, kind, space for learning. Our VPs won a nobel prize and the org has former prize winners. It's astounding to think about their credentials and qualifications! I truly appreciate their patience when they were explaining (confidential algorithm).
 
 ### The plentiful resources
+
 Amazon has a strong writing culture, which has led to their content on wikis and broadcast to be truly amazing. I spent countless time learning about work-related AWS Style Guides, Engineer Onboarding, and Amazon All-Hands. On top of that, the sheet number of people led to there being mental-health content for those days with writer's block. My favorite (non-technical) learnings were on Imposter Syndrome, Choronotypes, and 2 Way Decision Making.
 
 ### The fascinating projects
+
 I love learning about the ML projects and detailed Data engineering with Spark and Kafka. I'm excited to see where the project leads. Each project felt unique in some way and the org has a good culture about building with legos rather than reinventing the wheel. My favorite part was when I got to document an alpha stage product as it itterated over and grew exponentially in terms of interest.
