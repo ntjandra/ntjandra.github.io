@@ -1,9 +1,10 @@
 ---
-layout: default
-title: Mage AI
+layout: work
+title: Technical Writer I
+place: Mage AI
+start: 2021-09-01
+end:   2022-06-01
 ---
-
-## Mage
 
 Mage is a growing AI start-up company that went through many transitions during it's time to establish an identity, direction and brand. I was hired as the first technical writer and expanded their content outreach and strategy for technical audiences primarily focusing on those that code. From writing posts to managing writers I was deeply involved with project management, content strategy, and developing a community. 3 month after working, I was promoted to hire and assemble the full-time writing team. This team would later become the DevRel/Documentation team where I shifted focus to growing our community and developing Mage Academy, a platform to learn about Mage and AI.
 
@@ -11,7 +12,7 @@ Highlighting the differences between the boards, SEO automations and constantly 
 
 ## Project Management
 
-The project management model I adopted followed Agile Scrum, focusing on giving writers independence and the ability to choose what they want to write about to be the most creative. I owned 3 AirTable boards: SEO Content Calendar, Mage Academy, and Blog Schedule. To speed up our processes, I also developed automations and learned new frameworks to best approach each board. 
+The project management model I adopted followed Agile Scrum, focusing on giving writers independence and the ability to choose what they want to write about to be the most creative. I owned 3 AirTable boards: SEO Content Calendar, Mage Academy, and Blog Schedule. To speed up our processes, I also developed automations and learned new frameworks to best approach each board.
 
 ### SEO (Search Engine Optimization)
 

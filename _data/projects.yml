@@ -1,17 +1,31 @@
 # Extend this to hold all projects, add to a new layout for project page
-- name: Projects
-  link: /projects.html
-- name: SkyhookDM
-  link: /products/skyhookdm.md
+- name: Microsoft
+  link: /projects/Microsoft.html
+  start: 2023-09-01
+- name: Amazon
+  link: /projects/Amazon.html
+  start: 2022-08-01
+  end: 2023-06-01
+- name: Mage
+  link: /projects/MageAI.html
+  start: 2021-09-01
+  end: 2022-06-01
 - name: SEADS Vault
-  link: /projects/SDP.md
+  link: /projects/SDP.html
+  start: 2020-01-01
+  end: 2021-08-01
 - name: SuppCheck
-  link: /projects/SuppCheck.md
+  link: /projects/SuppCheck.html
+  start: 2020-01-01
+  end: 2020-01-01
+# - name: SkyhookDM
+#   link: /projects/skyhookdm.html
 # - name: RentMyJunk
 #   link: /projects/RMJ.md
+# start: 2019-08-01
+# end: 2020-01-01
 - name: Tetanggaku
-  link: /projects/Tetanggaku.md
-- name: Mage
-  link: /projects/MageAI.md
-- name: Amazon
-  link: /projects/Amazon.md
+  link: /projects/Tetanggaku.html
+  start: 2019-09-01
+  end: 2020-01-01
+
