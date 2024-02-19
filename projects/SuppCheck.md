@@ -33,7 +33,7 @@ Examples
 - Ingredient is healthy for the heart and treatment of ...
 - Ingredient is known to cause diabetes or cancer and increase risk of ...
 
-### Our team plans to add additional features for 
+### Reach for features
 
 - Alergens
 - Dieting
@@ -49,7 +49,7 @@ Android Studios
 Flutter
 Git
 
-## Result: At CruzHacks SuppCheck won two awards
+## Winner: Won two awards
 
 - **Second Place** in **Health Hack** category
 ![](/assets/img/SuppCheck/CruzHacksWin.jpg)

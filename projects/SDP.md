@@ -29,7 +29,7 @@ Our team's primary function was to develop software that supports the RREES Lab'
 4. Schedule vital meetings with sponsors, stakeholders, and various third party users outside of the RREES Lab.
 5. Discover how to unblock team members by searching for an expert's opinion or attempting the task.
 
-### Completed Deliverables/Acceptance test
+### Deliverables for Acceptance
 
 1. Software that detects power outages faster than the competitor's "Smart Meters". 10s versus 15 mins.
 2. Created a User Friendly Service that transforms the data to be more transparent with work on visualization.
