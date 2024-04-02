@@ -1,13 +1,15 @@
 # Contains all 6 blog tags
 - name: job
   link: /search/job.html
-- name: site
-  link: /search/site.html
-- name: code
-  link: /search/code.html
-- name: write
-  link: /search/write.html
-- name: learn
-  link: /search/learn.html
 - name: me
   link: /search/me.html
+- name: memo
+  link: /search/memo.html
+- name: site
+  link: /search/site.html
+- name: tech
+  link: /search/tech.html
+- name: story
+  link: /search/story.html
+- name: trial
+  link: /search/trial.html

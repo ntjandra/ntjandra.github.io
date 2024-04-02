@@ -2,7 +2,7 @@
 layout: post
 title: A Trial Writer
 date: 2021-08-23 14:06 -0700
-tags: learn job
+tags: job
 ---
 A company reached out to me on Friday about working not as a Frontend Engineer but as a Technical Writer. I love the company, and I see promise in what they do so it would be a no brainer to decline. Based on their Core-Virtues there were some things I felt that really hit it off with me from the start.
 
@@ -27,6 +27,7 @@ I can see this being used in my previous organization, filled with students want
 Coming from a Research and Labratory background, I've met professors who have spent their life studying Systems struggling to transition to AI when it first came out. This resulted in one department growing incredibly quick, whule everything slowed down for others departments, as resources (funding, supply of workers) become scarce if you weren't in AI. Then, there was a problem where a research group wanted to apply AI there, but lacked a willing expert to build/train the model. On the other hand, there were plenty of experts that wanted to build/train, but lacked the data. My reearch department was a group that sampled data and had milestones to ship it to an AI/ML Data Scientist in the future.
 
 ## What I really like about this position
+
 - I get to learn about AI. I get to code. I get to write with feeling and personality. Its a good balance of professional and informal. It's not a Thesis Paper, but also not a text you would casually send a friend.
 
 - Potential to "level up" and evolve after building a strong foundation and understanding of all 40 models.
@@ -38,9 +39,11 @@ Coming from a Research and Labratory background, I've met professors who have sp
 ), and bright community responses.
 
 ## What I want to see
+
 - Google Search Results for AI Terms (SGD, Pytorch Transformations) should not be scholarly articles or boring docuementation but links to user friendly blogs or technical writing.
 
 ## Questions
+
 1. Are AI solutions currently overpriced? From what I've seen so far hiring an AI engineer, requires a PhD and in most cases asking for 2-3 publications?! There's a low supply due to its time consuming and expensive barrier to entry. 
 - b. How do you plan to make AI affordable? 
 Is it a priced per usage kind of deal?
@@ -54,4 +57,5 @@ Can you tell me more about the company stance on "ethical" AI applications and h
 OpenAI while its in beta has amazing applications too and their newest product Codex generates code from words. Combined with the articles (trained documentation) I think there's a possibility of Codex being able to code an idea from scratch.
 
 ## What's the Trial
+
 I'm going to be writing about AI and ML techniques, but in layman's terms so anyone can understand. My goal is to have it be short, entertaining, and helpful regardless of prior knowledge. My first article will be on Regression Metrics! 
