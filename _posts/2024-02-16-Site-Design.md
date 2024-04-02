@@ -2,7 +2,7 @@
 layout: post
 title: Website Footer Redesign
 date: 2024-02-16 5:30 -0700
-tags: trial pin
+tags: trial
 ---
 
 Another new year brings a ton of new innovation, especially in the realm of AI. Found a new cool AI tool called Locofy, so I'm trying it out to redo my website footer.

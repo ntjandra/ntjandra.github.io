@@ -10,14 +10,19 @@ layout: default
       <p class="h4 lh-condensed font-smoothing"> {{ content }} </p>
       <div class="col-1 sm-width-full border-top-thick"></div>
     </div>
-  <!-- Blog Posts -->
+    <!-- Blog Posts -->
     <p class="h4 lh-condensed font-smoothing"> Recommended posts </p>
     {% for post in site.tags.pin %}
       {% include post-block.html %}
     {% endfor %}
+
     <p class="h4 lh-condensed font-smoothing"> Chronological posts </p>
+    <!-- Exclude hidden posts -->
     {% for post in site.posts %}
-      {% include post-block.html %}
+      {% if post.tags contains 'pin' or post.tags contains 'log' or post.tags contains 'bleh'%}
+      {% else %}
+        {% include post-block.html %}
+      {% endif %}
     {% endfor %}
   </div>
 </main>
