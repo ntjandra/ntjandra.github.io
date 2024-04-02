@@ -1,6 +1,6 @@
 ---
 layout: search
-search-tag: trial
+search-tag: tech
 ---
 
 Posts about emerging technology that interests me.
