@@ -2,7 +2,7 @@
 layout: post
 title:  "Personality Part One"
 date:   2021-07-27 16:36:48 -0700
-tags: memo
+tags: me
 ---
 
 Today I took the Myers–Briggs Type Indicator personality test and got a strange result. I ended as an INTP-T, but with a 1% border between being an INTP and INTJ.
