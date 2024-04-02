@@ -2,7 +2,7 @@
 layout: post
 title: Revisiting My Blog
 date: 2023-02-22 2:22 -0700
-tags: site me
+tags: site memo
 ---
 Blog updates in forever. Since a year, a lot has changed in my life and my drive to continue blogging.
 
@@ -24,7 +24,7 @@ With great power comes great responsibility, and that is true for promotions as 
 
 ## What I plan to do
 
-Contrary to the "write it when you think it". I'll be trying to restablish a cadence and reflect on what I've learned in my four years of working. I'll set milestones to come up with topics ahead of time, rather than spur of the moment. I'll also add functional improvements towards the minimalist design of the blog. 
+Contrary to the "write it when you think it". I'll be trying to restablish a cadence and reflect on what I've learned in my four years of working. I'll set milestones to come up with topics ahead of time, rather than spur of the moment. I'll also add functional improvements towards the minimalist design of the blog.
 
 ### Design Decisions
 
@@ -32,24 +32,24 @@ I've wanted tags for a while but never thought of what they could be. After look
 
 I've also wanted comments, but seeing as hosting a real-time RSS feed isn't cheap, it's been put on definite hiatus. The whole reason I went with this site style was frugality and minimallism, so I have no plans to increase the financial burden.
 
-### Posting Plan
+## Posting Plan
 
 In an effort to practice following a posting plan and integrate professionalism into the blog, I'll be creating a content plan. With the focus on meeting deadlines and conveying high-quality findings.
 
 To start off I'll be planning these 4 topics that hit me hard while I was evolving as a Technical Writer.
 
-**1. Why I became a technical writer?**
+### 1. Why I became a technical writer?
 
 I've been asked this in nearly every interview, but never had a good answer under pressure. If you were to ask me day one, I'd chalk it down to creativity and freedom, but after working in it for almost 2 years it's changed to be so much more.
 
-**2. Work-Life Harmony**
+### 2. Work-Life Harmony
 
 Years ago, I wrote about Work-Life Integration, but after a couple "corporate" experiences, I realize that integration, isolation, and assimilation have edge cases where elements of work or life cannot be balanced.
 
-**3. Experiencing Imposter Syndrome**
+### 3. Experiencing Imposter Syndrome
 
 A prime cause of accelerated burnout and a fear of horizontal growth. I'll go deep into what kind of imposter syndrome I relate to, and how I reframe it positively to overcome the "imposter" part.
 
-**4. Scrum-Like Project Management**
+### 4. Scrum-Like Project Management
 
 I'm no project manager in title, but working with a diverse set of people have helped me discover what my project management methodology is. It's not Scrum, but it involves finding the what works and improvising the rest.

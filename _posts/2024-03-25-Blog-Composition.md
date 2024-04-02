@@ -2,7 +2,7 @@
 layout: post
 title: Blog Composition
 date: 2024-03-25 5:30 -0700
-tags: site write pin 
+tags: site pin 
 ---
 
 Today I spent time reading through my blog posts, structure, which didn't feel like a spiel as the blog name entails. Therefore, I decided today I'd rename the blog with something that best matches the evergreen contents of my blog. With that in mind, I came up with a new high-level theme to emcompass what I've done and what I'd like to do in the future, composition.

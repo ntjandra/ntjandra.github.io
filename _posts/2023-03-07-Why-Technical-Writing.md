@@ -2,7 +2,7 @@
 layout: post
 title: Why I became a technical writer
 date: 2023-05-17 7:32 -0700
-tags: write me pin
+tags: memo pin
 ---
 Story of how I became a technical writer, and future growth plans.
 
@@ -20,7 +20,7 @@ A majority of my time building in Software Engineering was me Googling how to do
 
 This was prevalent in academia, with most queries having a distinct lack of documentation with links to academic papers and scholarly article publication. I desired more bite-sized content that was more accessible to layman and those who didn't read scientific journals. Other times, there were docs written by an engineer which glanced over important components because they built it and understood it already.
 
-If no one was writing them, I would write the docs. So I did as a software engineer and I was so glad I wrote it when we started onboarding interns and execs. The only problem is it took so much time to write clean, high quality documentation that it would become the "overtime hobby" as I did it outside of work hours to meet the engineering deadlines. 
+If no one was writing them, I would write the docs. So I did as a software engineer and I was so glad I wrote it when we started onboarding interns and execs. The only problem is it took so much time to write clean, high quality documentation that it would become the "overtime hobby" as I did it outside of work hours to meet the engineering deadlines.
 
 ## Constantly Learning
 
@@ -35,6 +35,7 @@ During the transition, I wanted a role that doesn't invalidate my effort towards
 Growing demand for Technical Writers is a long-term bet I have. With rising technology such as AI writing, is there truly a need? With that, I answer a resounding yes. Technical writers will continue to be in demand even if AIs become better writers than humans, this is because of the stages that technical writers are involved in and unseen work or metrics they push.
 
 ### Variety
+
 As a technical writer you'll work on a variety of projects, and just as software engineer can mean many different things, so too can technical writing.
 
 Common projects for a technical writer stem from these high-level organization goals. I've broken these projects down into their fundamental objectives as Create, Amplify, and Deprecate.
@@ -52,6 +53,7 @@ I see Technical Writers as an introverted version of the Developer Advocate. The
 The ability to deprecate then delete obsolete software will always be in demand and as long as decades-old corporations exist. There are many parts to deprecation, from the legacy code base to the docs, with the failure to do as extremely costly for a company. It involves communicating properly to the affected parties and a strong understanding of deadlines and milestones. These tasks take the most analytical thinking as you proofread and edit all documentation and functions to verify their I/O. Finally once it's obolete you can delete existing docs. In the future, I believe this will be the task that can be assisted by AI.
 
 ## Prospective Technical Writer
+
 Anyone interested in transsitioning to a Technical Writer from your everyday tech role should understand these tradeoffs. 
 
 ### Assorted skills vs Job security
@@ -62,13 +64,13 @@ There are fewer Technical Writing jobs than Software Engineering, and because th
 
 ### Fits the Growth Mindset
 
-Tech has a lot of competition. Just this year in 2023, there are 150 million more PhD international students in CS/DS/tech. I needed to double down on my strengths as a Computer Science graduate to signify my experience programming, and my work experience as a Software Engineer. It's hard to compete against international education systems that work harder since birth (6 am to midnight schools). But as a technical writer, you'll have a natural skill that utilizes something the 150 million PhDs don't all have, native english speaker. 
+Tech has a lot of competition. Just this year in 2023, there are 150 million more PhD international students in CS/DS/tech. I needed to double down on my strengths as a Computer Science graduate to signify my experience programming, and my work experience as a Software Engineer. It's hard to compete against international education systems that work harder since birth (6 am to midnight schools). But as a technical writer, you'll have a natural skill that utilizes something the 150 million PhDs don't all have, native english speaker.
 
 Ok that was a minor joke. But in all honesty, American Education is very different from the higher scoring countries because they have a different aproach. Growing up, I learned with the growth mindset to develop critical thinkng, while my intenational family members studied through rigorous memorization of the process.
 
 ### Reduce Burnout and On-call
 
-For the most part, Technical Writers don't share the pager duty/on-call rotations that software engineers have. In return, they are paid a lot less (like every other role), but have more time for self-care and leisure. 
+For the most part, Technical Writers don't share the pager duty/on-call rotations that software engineers have. In return, they are paid a lot less (like every other role), but have more time for self-care and leisure.
 
 ### Afterword + Side Project
 
